@@ -129,6 +129,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0xa7f552078dcc247c2684336020c03648500c6d9f.png"
+    },
+    {
+      "name": "Gravy Token",
+      "symbol": "GRAVY",
+      "address": "0x8a57a5210BCa542dAF4b748Fceed854522B0E1b6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x8a57a5210BCa542dAF4b748Fceed854522B0E1b6.png"
     }
   ]
 }
