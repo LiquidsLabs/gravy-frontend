@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  node:
+    image: node:14.17.0
+    ports:
+      - "5000:5000"
+    container_name: gravy-node-serve
+    working_dir: /usr/src/app
+    volumes:
+      - ../../.:/usr/src/app
+    command: sh -c "yarn global add serve && cd build && yarn serve -s build"
