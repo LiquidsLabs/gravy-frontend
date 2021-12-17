@@ -6,4 +6,4 @@ services:
     working_dir: /usr/src/app
     volumes:
       - ../../.:/usr/src/app
-    command: sh -c "yarn install && yarn build"
+    command: sh -c "yarn install && yarn react-scripts build"
