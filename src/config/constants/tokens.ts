@@ -1882,6 +1882,14 @@ export const testnetTokens = {
     'Bakeryswap Token',
     'https://www.bakeryswap.org/',
   ),
+  gravy: new Token(
+    TESTNET,
+    '0x8a57a5210bca542daf4b748fceed854522b0e1b6',
+    18,
+    'GRAVY',
+    'GravySwap Token',
+    'https://www.gravyswap.org/',
+  ),
 }
 
 const tokens = (): TokenList => {
