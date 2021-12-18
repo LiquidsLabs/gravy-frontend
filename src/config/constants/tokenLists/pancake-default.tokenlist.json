@@ -13,7 +13,7 @@
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
-      "address": "0x58abbb3c89750dda42b65822042ebadb00f9ef61",
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
@@ -21,7 +21,7 @@
     {
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "address": "0x82ed27e5f7bf6465618990dfdbdbee3e5892468f",
+      "address": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
