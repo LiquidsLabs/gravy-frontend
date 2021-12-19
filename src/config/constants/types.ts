@@ -1,5 +1,5 @@
 import BigNumber from 'bignumber.js'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@liquidslabs/testnet_pancakeswap_v2_sdk'
 
 export type TranslatableText =
   | string

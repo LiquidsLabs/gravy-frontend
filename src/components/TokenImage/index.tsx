@@ -6,7 +6,7 @@ import {
   ImageProps,
 } from '@pancakeswap/uikit'
 import tokens from 'config/constants/tokens'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@liquidslabs/testnet_pancakeswap_v2_sdk'
 
 interface TokenPairImageProps extends Omit<UIKitTokenPairImageProps, 'primarySrc' | 'secondarySrc'> {
   primaryToken: Token

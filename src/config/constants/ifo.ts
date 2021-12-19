@@ -1,4 +1,4 @@
-import { Token, ChainId } from '@pancakeswap/sdk'
+import { Token, ChainId } from '@liquidslabs/testnet_pancakeswap_v2_sdk'
 import tokens from './tokens'
 import farms from './farms'
 import { Ifo } from './types'

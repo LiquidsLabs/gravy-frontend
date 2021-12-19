@@ -1,4 +1,4 @@
-import { Currency } from '@pancakeswap/sdk'
+import { Currency } from '@liquidslabs/testnet_pancakeswap_v2_sdk'
 import useTheme from 'hooks/useTheme'
 import React, { useCallback, useState } from 'react'
 import BnbWbnbNotice from './BnbWbnbNotice'

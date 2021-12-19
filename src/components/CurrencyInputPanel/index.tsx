@@ -1,5 +1,5 @@
 import React from 'react'
-import { Currency, Pair } from '@pancakeswap/sdk'
+import { Currency, Pair } from '@liquidslabs/testnet_pancakeswap_v2_sdk'
 import { Button, ChevronDownIcon, Text, useModal, Flex, Box } from '@pancakeswap/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
