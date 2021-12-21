@@ -21,6 +21,14 @@ export const mainnetTokens = {
     'Wrapped BNB',
     'https://www.binance.com/',
   ),
+  gravy: new Token(
+    MAINNET,
+    '0x8a57a5210bca542daf4b748fceed854522b0e1b6',
+    18,
+    'GRAVY',
+    'GravySwap Token',
+    'https://www.gravyswap.org/',
+  ),
   // bnb here points to the wbnb contract. Wherever the currency BNB is required, conditional checks for the symbol 'BNB' can be used
   bnb: new Token(MAINNET, '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c', 18, 'BNB', 'BNB', 'https://www.binance.com/'),
   cake: new Token(
